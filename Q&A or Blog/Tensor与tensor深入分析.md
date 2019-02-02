@@ -1,4 +1,4 @@
-## Tensor与tensor
+## Tensor与tensor深入分析
 
 在Pytorch官方文档中，对于 `Tensor`  与 `tensor` 是这样定义的：
 
@@ -107,4 +107,8 @@ Output:
     torch.Size([])	#pytorch对标量（0维矩阵）的表示
 
 ```
+
+<center>公众号：「土堆碎念」</center>
+<center>一些不成熟的想法与碎念</center>
+<center>一些无趣，精心打造的教程</center>
 
