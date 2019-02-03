@@ -35,10 +35,10 @@
 
 我的大本营，会不定期更新一些碎碎念，欢迎关注
 
-  <div aligh="center">一些不成熟的想法与碎念 </div>
+ <div aligh="center">一些不成熟的想法与碎念 </div>
 
  <div aligh="center">一些无趣，精心打造的教程</div>
 
-  <div aligh="center">一个不知所云的人</div>
+ <div aligh="center">一个不知所云的人</div>
 
  <div aligh="center">![000](imgs/000.jpg)</div>
