@@ -39,11 +39,15 @@
 
 **（学代码，一定要边敲边学）**
 
+---
+
 ## 壹：目录
 
 0.  PyTorch 环境配置及安装 [Github]()
 
 
+
+---
 
 ## 贰：我在哪儿
 
@@ -51,15 +55,21 @@
 
 [Github](https://github.com/zhiyaozhou)：更棒的教程体验
 
-[微信公众号](https://mp.weixin.qq.com/s/gWuIhzaZimf-cqtr1UbaiQ)：【土堆碎念】（tuduisuinian）
+微信公众号：【土堆碎念】（tuduisuinian）
 
 我的大本营，会不定期更新一些碎碎念，欢迎关注
 
-一些不成熟的想法与碎念 
+**往期推荐：**
 
-一些无趣，精心打造的教程
+[学会这三个排版原则，你就能超过80%人的排版](http://mp.weixin.qq.com/s?__biz=MzIxNDEwMzg3Mw==&mid=501968870&idx=1&sn=400094c6e5709a14fddcd2deba09d866&chksm=0fb36dc838c4e4dea98f3cde1ff717bea67e4e1ebda40b064cd33e9ef259fa19eba45117e1e4#rd)
 
-一个不知所云的人
+[你想过将你的人生游戏化吗？](http://mp.weixin.qq.com/s?__biz=MzIxNDEwMzg3Mw==&mid=501968679&idx=1&sn=e90c796b3bfb7d901be333cd86199e56&chksm=0fb36d0938c4e41fbac4a459907029cc1d4855fba1a172af93d2f185b7dab9bf30c51ac72d41#rd)
 
-![000](imgs/000.jpg)
+[用游戏的思路激励自己](http://mp.weixin.qq.com/s?__biz=MzIxNDEwMzg3Mw==&mid=501968703&idx=1&sn=c1fa79d8b13ab7fae11ea0d72b80e4d3&chksm=0fb36d1138c4e407a625fea5211f50083dbdfa5dde2eb1d179e18c8de0c36e3f3eaab35377f2#rd)
+
+寻找有趣或更有效率的事、工具和教程
+
+![](https://ae01.alicdn.com/kf/H20c6f97f5b1540cabe93eb3d55f17bcdw.jpg)
+
+
 
