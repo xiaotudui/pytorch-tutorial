@@ -1,6 +1,6 @@
 # Pytorch教程
 
-相信尝试找到此教程的你，已经知道PyTorch的用途。
+相信尝试找到此教程的你，已经知道 PyTorch 的用途。
 
 找到此教程的你，也许跟我一样，尝试过各种教程，官方的教程文档，各色的视频，但发现都不是很友好。
 
@@ -11,17 +11,37 @@
 * 编程语言基础，我觉得任何一门语言都是可以的
 * 知道面向对象的知识，类，继承，实例
 
-## 零：目录
+---
 
-0. 安装
-1. 一些基础操作
-2. 读取加载图像
-   0. 一些准备知识
-   1. 理解加载数据过程及一点准备（重要）
-   2. [利用其他库函数读取图像数据](Tutorial/2.2 利用其他库函数读取图像数据)
-   3. Pytorch库函数读取数据
-      1. `Dataset`解析及使用
-      2. `Dataloader`解析及使用
+## 零：如何使用
+
+本系列教程，致力于打造成为通俗易懂的教程。所以课程安排的思路也是比较特点，相信一定能让你快速入门。
+
+本文提供：文字版 和 视频版。（欢迎各位 Fork 和 Star）
+
+文字版：
+
+[Github及代码]( https://github.com/xiaotudui/PyTorch-Tutorial )
+
+[CSDN——PyTorch专栏]( https://blog.csdn.net/zhouzhiyao960211/article/category/8656639 )
+
+视频版：
+
+[Bilibili](https://www.bilibili.com/video/av74281036/ )
+
+[Youtube](https://www.youtube.com/playlist?list=PLgAyVnrNJ96CqYdjZ8v9YjQvCBcK5PZ-V )
+
+相关下载：https://pan.baidu.com/s/16koDDDvAFO7rNoi-uR-A_g 提取码：pahi 
+
+**推荐先看视频前两集（PyTorch安装及编辑器的选择），之后涉及代码的，一边敲代码，一边看文字版，出现不连贯的地方，再看看视频版。**
+
+**或者，想将视频从头到尾，不求甚解的看一遍，然后对着文字版，一边看一边敲。**
+
+**（学代码，一定要边敲边学）**
+
+## 壹：目录
+
+0.  PyTorch 环境配置及安装 [Github]()
 
 
 

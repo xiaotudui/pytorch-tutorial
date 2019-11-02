@@ -1,16 +1,22 @@
 ## 环境配置
 
+---
+
 **温馨提示：为了更好的教程体验，提供视频、阅读地址**
 
-Youtube:
+Youtube:   https://www.youtube.com/playlist?list=PLgAyVnrNJ96CqYdjZ8v9YjQvCBcK5PZ-V 
 
-BiliBili:
+BiliBili:  https://www.bilibili.com/video/av74281036/ 
 
-Github: 
+Github:  https://github.com/xiaotudui/PyTorch-Tutorial 
+
+相关下载：https://pan.baidu.com/s/16koDDDvAFO7rNoi-uR-A_g 提取码：pahi 
 
 在学习中，遇到任何问题，可以关注公众号：土堆碎念，直接在对话框中留言，我会不定时解答的~
 
-**公众号：土堆碎念，回复：pytorch，即可获得所有的数据集及安装包，**省去找软件、数据集的时间。（同步更新中，请勿急躁）
+**公众号：土堆碎念，回复：pytorch，即可获得所有的数据集及安装包，** 省去找软件、数据集的时间。（同步更新中，请勿急躁）
+
+---
 
 ### 0. 前言
 
@@ -32,7 +38,7 @@ Anaconda 的下载地址：[这儿]( https://www.anaconda.com/distribution/ )（
 
 之前使用过3.7版本，也许会遇到一些问题。
 
-**推荐：**Anaconda历史版本链接：[这儿]( https://repo.continuum.io/archive/ )，选择这个版本： Anaconda 3-5.2.0
+**推荐：** Anaconda历史版本链接：[这儿]( https://repo.continuum.io/archive/ )，选择这个版本： Anaconda 3-5.2.0
 
 ![](https://pic.superbed.cn/item/5dbac43cbd461d945a86368a.png)
 
@@ -129,6 +135,14 @@ PyTorch Build 选择 Stable；选择系统；Package，Windows下推荐 conda，
 
 有的时候，下载速度太慢了，可以利用我已经下载好的文件。
 
+```
+链接：https://pan.baidu.com/s/1cyEjHdluc4ufCkvtbgziqA 
+提取码：bzfx 
+复制这段内容后打开百度网盘手机App，操作更方便哦
+```
+
+
+
 将其中的 `pytorch-1.3.0-py3.6_cuda92_cudnn7_0.tar` 和 `cudatoolkit-9.2-0.tar `两个文件，复制到刚才 Anaconda 安装的目录下的 pkgs 文件夹中。
 
 这两个文件，只能安装 pytorch1.3.0 和 cuda 9.2，仅限Windows。
@@ -148,3 +162,18 @@ PyTorch Build 选择 Stable；选择系统；Package，Windows下推荐 conda，
 （3）接下来，输入 `torch.cuda.is_available`，如果是 True，意味着你可以使用 GPU，如果是 False，意味着只能使用CPU。
 
 ![](https://pic.superbed.cn/item/5dbc45aabd461d945adfbf75.png)
+
+---
+
+## 往期推荐
+
+[学会这三个排版原则，你就能超过80%人的排版](http://mp.weixin.qq.com/s?__biz=MzIxNDEwMzg3Mw==&mid=501968870&idx=1&sn=400094c6e5709a14fddcd2deba09d866&chksm=0fb36dc838c4e4dea98f3cde1ff717bea67e4e1ebda40b064cd33e9ef259fa19eba45117e1e4#rd)
+
+[你想过将你的人生游戏化吗？](http://mp.weixin.qq.com/s?__biz=MzIxNDEwMzg3Mw==&mid=501968679&idx=1&sn=e90c796b3bfb7d901be333cd86199e56&chksm=0fb36d0938c4e41fbac4a459907029cc1d4855fba1a172af93d2f185b7dab9bf30c51ac72d41#rd)
+
+[用游戏的思路激励自己](http://mp.weixin.qq.com/s?__biz=MzIxNDEwMzg3Mw==&mid=501968703&idx=1&sn=c1fa79d8b13ab7fae11ea0d72b80e4d3&chksm=0fb36d1138c4e407a625fea5211f50083dbdfa5dde2eb1d179e18c8de0c36e3f3eaab35377f2#rd)
+
+寻找有趣或更有效率的事、工具和教程
+
+![](https://ae01.alicdn.com/kf/H20c6f97f5b1540cabe93eb3d55f17bcdw.jpg)
+
