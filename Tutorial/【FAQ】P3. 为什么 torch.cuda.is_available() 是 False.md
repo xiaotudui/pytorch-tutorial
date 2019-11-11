@@ -28,7 +28,7 @@
 
 **如果你的驱动版本小于396.26，请用各种驱动管理软件或者软件管家，去升级你的显卡驱动。当然，更推荐去官网，下载对应的最新驱动。**
 
-3、下载最新驱动。在 [官方网站]( https://www.nvidia.com/Download/index.aspx?lang=cn ) 选择相应的显卡型号，操作系统，其他默认。其中的 Notebooks 是指笔记本。
+3、下载最新驱动。在 [官方网站](https://www.nvidia.com/Download/index.aspx?lang=cn) 选择相应的显卡型号，操作系统，其他默认。其中的 Notebooks 是指笔记本。
 
 ![](https://pic.superbed.cn/item/5dc690038e0e2e3ee9ce0be1.png)
 
