@@ -9,7 +9,7 @@ from torch import nn
 image_path = "../imgs/airplane.png"
 image = Image.open(image_path)
 print(image)
-
+image = image.convert('RGB')
 transform = torchvision.transforms.Compose([torchvision.transforms.Resize((32, 32)),
                                             torchvision.transforms.ToTensor()])
 
