@@ -1,6 +1,4 @@
 /.idea
 /logs
 /data
-/logs_maxpool
-/logs_relu
-/logs_seq
+/logs_*

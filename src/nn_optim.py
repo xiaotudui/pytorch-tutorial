@@ -36,7 +36,6 @@ class Tudui(nn.Module):
 loss = nn.CrossEntropyLoss()
 tudui = Tudui()
 optim = torch.optim.SGD(tudui.parameters(), lr=0.01)
-scheduler = StepLR(optim, step_size=5, gamma=0.1)
 for epoch in range(20):
     running_loss = 0.0
     for data in dataloader:
@@ -45,6 +44,6 @@ for epoch in range(20):
         result_loss = loss(outputs, targets)
         optim.zero_grad()
         result_loss.backward()
-        scheduler.step()
+        optim.step()
         running_loss = running_loss + result_loss
     print(running_loss)
