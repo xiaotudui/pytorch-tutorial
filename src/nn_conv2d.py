@@ -40,4 +40,6 @@ for data in dataloader:
 
     step = step + 1
 
+writer.close()
+
 
