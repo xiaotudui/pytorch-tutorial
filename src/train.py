@@ -10,6 +10,7 @@ from model import *
 from torch import nn
 from torch.utils.data import DataLoader
 
+# 使用GPU
 device = torch.device("cuda")
 train_data = torchvision.datasets.CIFAR10(root="../data", train=True, transform=torchvision.transforms.ToTensor(),
                                           download=True)
